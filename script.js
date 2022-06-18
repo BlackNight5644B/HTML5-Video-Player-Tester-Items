@@ -1,0 +1,1 @@
+<script src="https://cdn.plyr.io/3.7.2/plyr.js"></script>
